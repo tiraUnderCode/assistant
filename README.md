@@ -38,7 +38,7 @@ Install via figma plugin [link here](https://www.figma.com/community/plugin/8964
 
 ```shell
 # [REQUIRED] we use git submodules for `packages/`. you have to explicitly execute this command instead default clone.
-git clone --recurse-submodules https://github.com/gridaco/assistant.git
+git clone --recurse-submodules [https://github.com/tiraUnderCode/assistant.git]
 
 cd assistant
 
